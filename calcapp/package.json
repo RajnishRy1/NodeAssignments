@@ -1,0 +1,38 @@
+{
+  "_from": "calculator-rajnish",
+  "_id": "calculator-rajnish@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-kXZQoZLJjlOf1NH47hdbPI0bWQS03K+nuTixEZRjyFtXjPDJU5QwDzascXuH1EEW8d1UAqB3MlhMQb+lT8Kpdw==",
+  "_location": "/calculator-rajnish",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "calculator-rajnish",
+    "name": "calculator-rajnish",
+    "escapedName": "calculator-rajnish",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/calculator-rajnish/-/calculator-rajnish-1.0.0.tgz",
+  "_shasum": "a2efb6b2b561f5b36dc9dd75a8ac5b8b6fe7e998",
+  "_spec": "calculator-rajnish",
+  "_where": "C:\\Users\\rajnish\\nodeworkspace\\calcapp",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "calculator-rajnish",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
